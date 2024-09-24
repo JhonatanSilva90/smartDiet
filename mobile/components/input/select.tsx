@@ -105,6 +105,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingHorizontal: 10,
     borderRadius: 4,
+    marginBottom: 16,
   },
 
   modalContainer: {
