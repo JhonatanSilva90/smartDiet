@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="./mobile//assets//images/logoSmartDietCompleto.jpeg" >
-</p>
 
-<p align="center">
-   Aplicativo de Dietas Personalizadas via IA:
-</p>
+<h1 align="center">
+   <b> Aplicativo de Dietas Personalizadas via IA:</b>
+</h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d01baa08-9a76-46b3-8561-7869a57aab9b" width="240">
+</div>
 
 <br>
 
@@ -65,18 +66,24 @@ npx expo start
 
 <h1>Funcionalidades Adicionais</h1>
 
+<div style="text-align: justify">
 <ul>
-<li style="text-align: justify"><b>Recomendação de Suplementos:</b> A IA do Gemini pode recomendar suplementos alimentares para otimizar seus resultados.</li>
-<li style="text-align: justify"><b>Compartilhamento de Dietas:</b> Compartilhe sua dieta personalizada com amigos e familiares.</li>
+  <li><b>Recomendação de Suplementos:</b> A IA do Gemini pode recomendar suplementos alimentares para otimizar seus resultados.</li>
+  <li><b>Compartilhamento de Dietas:</b> Compartilhe sua dieta personalizada com amigos e familiares.</li>
 </ul>
+</div>
+
 <br>
 
 <h1>Aviso Importante</h1>
 
-<p style="text-align: justify">
-  Este aplicativo foi desenvolvido com o propósito de demonstrar o potencial da inteligência artificial na criação de sistemas. As dietas geradas pela IA são apenas exemplos e <b>não devem ser seguidas sem a orientação de um profissional de saúde qualificado</b>.
-</p>
+<div style="text-align: justify">
+  <p>
+    Este aplicativo foi desenvolvido com o propósito de demonstrar o potencial da inteligência artificial na criação de sistemas. As dietas geradas pela IA são apenas exemplos e
+    <b>não devem ser seguidas sem a orientação de um profissional de saúde qualificado</b>.
+  </p>
 
-<p style="text-align: justify">
-  A utilização deste aplicativo é de sua total responsabilidade. Consulte sempre um médico ou nutricionista antes de iniciar qualquer dieta ou programa alimentar.
-</p>
+  <p>
+    A utilização deste aplicativo é de sua total responsabilidade. Consulte sempre um médico ou nutricionista antes de iniciar qualquer dieta ou programa alimentar.
+  </p>
+</div>
